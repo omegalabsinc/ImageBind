@@ -1,7 +1,7 @@
 torch>=1.13.0
 torchvision>=0.14.0
 torchaudio>=0.13.0
-pytorchvideo @ git+https://github.com/facebookresearch/pytorchvideo.git@ae9cfc6e62ca49eb9721a7a56e1e13e348ad21dc
+pytorchvideo @ git+https://github.com/omegalabsinc/pytorchvideo.git@23bf970686ed278bcf991807d18fe1d3c9a1646d
 timm==0.6.7
 ftfy
 regex
