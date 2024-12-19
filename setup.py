@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='imagebind',
-    version='0.1.1',
+    version='0.1.2',
     packages=find_packages(),
     description='A brief description of the package',
     long_description=open('README.md').read(),
